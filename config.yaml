@@ -1,0 +1,5 @@
+input_folder: "data/sample_files"
+top_k: 5
+model_name: "all-MiniLM-L6-v2"
+output_csv: "results/matches.csv"
+strict_keyword_match: true

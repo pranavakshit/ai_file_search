@@ -1,0 +1,5 @@
+Indian Oil Corporation Ltd. is India's largest commercial oil company.
+The PHLO Information Systems department handles digital transformation projects.
+This project focuses on using AI to search file contents.
+The system reads .txt, .pdf, and .docx formats.
+It performs semantic matching to retrieve relevant data based on natural language queries.

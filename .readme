@@ -1,0 +1,25 @@
+# AI File Content Search Tool
+
+A local semantic search tool that scans `.txt`, `.pdf`, and `.docx` files in a folder and finds content based on natural language queries.
+
+This is part of an internship project at Indian Oil Corporation Limited (IOCL), PHLO Information Systems Department.
+
+---
+
+## 📌 Features
+
+- Searches content across `.txt`, `.pdf`, `.docx` files
+- Uses semantic similarity, not just keyword matching
+- Shows file name, location (line/page/paragraph), similarity score, and a snippet
+- Configurable via `config.yaml`
+
+---
+
+## 🛠️ Setup
+
+```bash
+git clone <repo-url>
+cd ai-file-search
+python -m venv .venv
+source .venv/bin/activate  # or .venv\Scripts\activate on Windows
+pip install -r requirements.txt
