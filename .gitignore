@@ -7,3 +7,4 @@ Thumbs.db
 results/
 *.csv
 config_local.yaml
+.idea/
